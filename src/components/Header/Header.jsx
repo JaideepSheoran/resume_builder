@@ -9,14 +9,11 @@ function Header() {
     <div className={styles.container}>
       <div className={styles.left}>
         <p className={styles.heading}>
-          A <span>Resume</span> that stands out!
-        </p>
-        <p className={styles.heading}>
-          Make your own resume. <span>It's free</span>
+          Want to <span>work</span> with <span>Thrifty ?</span>
         </p>
       </div>
       <div className={styles.right}>
-        <img src={resumeSvg} alt="Resume" />
+        <img src="https://theme.zdassets.com/theme_assets/499832/623f60b96ddfd183dc05188233f519571cdfea7c.png" alt="Resume" />
       </div>
     </div>
   );
